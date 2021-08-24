@@ -30,17 +30,16 @@
 &nbsp;
 &nbsp;
 
-<details>
-    <summary>Stats</summary>
-    <p align="center">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=anhtumai&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"
-            height="165"
-            alt="accountstats"
-        />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtumai&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" height="165"
-            alt="toplanguages"
-        />
-    </p>
-</details>
+### Stats
+
+<p align="center">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=anhtumai&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"
+        height="165"
+        alt="accountstats"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtumai&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" height="165"
+        alt="toplanguages"
+    />
+</p>
