@@ -8,7 +8,7 @@
 
 **Welcome to my Github :octocat:**
 
-✨ I am a Linux system administrator in a day, a passionate learner, and a heavy Github contributor in the night. My dream is to gain as much career advancement as possible.
+✨ I am a Backend Developer in a day, a passionate learner, and a heavy Github contributor in the night. My dream is to gain as much career advancement as possible.
 
 ### Tech stacks
 
@@ -24,7 +24,6 @@
 
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
 
 &nbsp;
 &nbsp;
